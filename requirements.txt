@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn==1.4.0
+joblib
+streamlit-lottie
+requests
+matplotlib
+seaborn
