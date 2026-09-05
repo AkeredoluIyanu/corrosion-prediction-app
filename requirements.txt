@@ -1,6 +1,6 @@
 streamlit
 pandas
-scikit-learn
+scikit-learn==1.4.0
 joblib
 streamlit-lottie
 requests
